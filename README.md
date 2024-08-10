@@ -42,13 +42,13 @@ Proje AspNet Core 6.0 Api ile Restoranlar İçin Dinamik Bir QR Kodlu Sipariş Y
 
 ![WhatsApp Image 2024-08-08 at 11 36 39](https://github.com/user-attachments/assets/3eae45bd-0898-4830-8cf3-888e73ca54e8)
 
-![WhatsApp Image 2024-08-08 at 11 36 42 (2)](https://github.com/user-attachments/assets/13d8df6d-8fb4-40b3-9e64-74b7522af408)
+
 
 
 ![WhatsApp Image 2024-08-08 at 11 36 43](https://github.com/user-attachments/assets/743fa6f0-7ee0-4d93-b121-51b4badb22ff)
 
 # Swagger
-![WhatsApp Image 2024-08-08 at 11 36 43 (3)](https://github.com/user-attachments/assets/3eb51333-19f7-4bfb-901f-574310e6478e
+![WhatsApp Image 2024-08-08 at 11 36 43 (3)](https://github.com/user-attachments/assets/3eb51333-19f7-4bfb-901f-574310e6478e)
 
 # Register
 ![WhatsApp Image 2024-08-08 at 11 36 43 (1)](https://github.com/user-attachments/assets/074d1d35-3381-42e9-9c84-609afb2ac1a8)
